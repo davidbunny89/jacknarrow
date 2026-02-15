@@ -1,0 +1,801 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>YTS: The Official Home of YIFY Movies</title>
+<meta charset="utf-8">
+<!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <![endif]-->
+<meta name="viewport" content="width=device-width, minimal-ui, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="description" content="Official YTS site for free YIFY movies in 720p, 1080p, and 3D. Fastest downloads in the smallest file size." />
+<meta name="keywords" content="yts, yify, yify movies, yts movies, yts proxy, yify movies, yify mirror" />
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="1 days">
+<link rel="alternate" href="https://yts-official.org/" hreflang="en" />
+<link rel="canonical" href="https://yts-official.org/" />
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="YTS: The Official Home of YIFY Movies" />
+<meta property="og:description" content="Official YTS site for free YIFY movies in 720p, 1080p, and 3D. Fastest downloads in the smallest file size." />
+<meta property="og:url" content="https://yts-official.org/" />
+<meta property="og:site_name" content="YTS" />
+<meta property="article:modified_time" content="2025-10-14T12:44:00+01:00" />
+<meta property="og:image" content="https://yts-official.org/imgup/yts-movies.png" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@yts">
+<meta name="twitter:title" content="YTS: The Official Home of YIFY Movies">
+<meta name="twitter:description" content="Download YIFY movies in 720p, 1080p, and 3D. Fastest downloads, smallest sizes.">
+<meta name="twitter:image" content="https://yts-official.org/imgup/yts-movies.png">
+
+
+<!-- Favicons -->
+<link rel="shortcut icon" href="https://yts-official.org/img/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="https://yts-official.org/img/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://yts-official.org/img/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://yts-official.org/img/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://yts-official.org/img/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://yts-official.org/img/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://yts-official.org/img/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://yts-official.org/img/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://yts-official.org/img/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://yts-official.org/img/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="160x160" href="https://yts-official.org/img/favicon-160x160.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://yts-official.org/img/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://yts-official.org/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://yts-official.org/img/favicon-16x16.png">
+
+<meta name="msapplication-TileColor" content="#00a300">
+<meta name="msapplication-TileImage" content="https://yts-official.org/img/mstile-144x144.png">
+
+<!-- Fonts & CSS -->
+<link href="https://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://yts-official.org/css/fonts.css">
+<link rel="stylesheet" href="https://yts-official.org/css/app.css">
+
+<!-- Share Buttons -->
+
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=650ae7037a79f400122d655f&product=sop' async='async'></script>
+
+<meta name="google-site-verification" content="qvGm7GGtzaEbPB1sYfZi_QKsksiGuTZDyiZdQb4H5yU" />
+
+
+<!-- WebPage Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://yts-official.org/",
+  "url": "https://yts-official.org/",
+  "name": "YTS: The Official Home of YIFY Movies",
+  "isPartOf": {
+    "@id": "https://yts-official.org/#website"
+  },
+  "primaryImageOfPage": {
+    "@id": "https://yts-official.org/#primaryimage"
+  },
+  "image": {
+    "@id": "https://yts-official.org/#primaryimage"
+  },
+  "thumbnailUrl": "https://yts-official.org/imgup/yts-movies.png",
+  "datePublished": "2024-04-24T21:47:26+00:00",
+  "dateModified": "2025-10-14T12:44:00+01:00",
+  "description": "The official YTS YIFY Movies website. Best YTS Movies in 720p, 1080p and 3D Quality",
+  "breadcrumb": {
+    "@id": "https://yts-official.org/#breadcrumb"
+  },
+  "inLanguage": "en",
+  "potentialAction": [
+    {
+      "@type": "ReadAction",
+      "target": [
+        "https://yts-official.org/"
+      ]
+    }
+  ]
+}
+</script>
+
+<!-- ImageObject Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "inLanguage": "en",
+  "@id": "https://yts-official.org/#primaryimage",
+  "url": "https://yts-official.org/imgup/yts-movies.png",
+  "contentUrl": "https://yts-official.org/imgup/yts-movies.png",
+  "width": 1048,
+  "height": 703
+}
+</script>
+
+<!-- BreadcrumbList Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "https://yts-official.org/#breadcrumb",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home"
+    }
+  ]
+}
+</script>
+
+<!-- WebSite Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://yts-official.org/#website",
+  "url": "https://yts-official.org/",
+  "name": "YTS: The Official Home of YIFY Movies",
+  "description": "The official YTS YIFY Movies website. Best YTS Movies in 720p, 1080p and 3D Quality",
+  "potentialAction": [
+    {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://yts-official.org/?s={search_term_string}"
+      },
+      "query-input": {
+        "@type": "PropertyValueSpecification",
+        "valueRequired": true,
+        "valueName": "search_term_string"
+      }
+    }
+  ],
+  "inLanguage": "en"
+}
+</script>
+
+<!-- Organization Schema -->
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "YTS",
+  "alternateName": ["YTS", "YIFY", "YIFY MOVIES"],
+  "url": "https://yts-official.org/",
+  "logo": "https://yts-official.org/imgup/yts-movies.png",
+  "sameAs": [
+    "https://twitter.com/ytsyifyofficial",
+    "https://www.reddit.com/r/YTSYIFY/"
+  ]
+}
+</script>
+
+
+
+
+<!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /> <![endif]-->
+<link rel="shortcut icon" href="https://yts-official.org/img/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="https://yts-official.org/img/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://yts-official.org/img/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://yts-official.org/img/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://yts-official.org/img/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://yts-official.org/img/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://yts-official.org/img/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://yts-official.org/img/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://yts-official.org/img/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://yts-official.org/img/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://yts-official.org/img/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="https://yts-official.org/img/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://yts-official.org/img/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://yts-official.org/img/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#00a300">
+<meta name="msapplication-TileImage" content="https://yts-official.org/img/mstile-144x144.png">
+<link href='https://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://yts-official.org/css/fonts.css">
+<link rel="stylesheet" href="https://yts-official.org/css/app.css">
+<style>
+@media (min-width: 992px){
+.col-md-12 {
+    width: 100% !important;
+}
+}
+
+
+.home-btnx{
+    margin-top:20px;
+    cursor:pointer;
+    display: inline-block;
+    font-weight: 400;
+    color: #6AC045;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid #6AC045;
+    padding: 10px 20px;
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight:bold;
+    border-radius: 5px;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.home-btnx:hover{
+    background-color: #3687e6;
+    color:#fff;
+}
+
+
+
+</style>
+
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=650ae7037a79f400122d655f&product=sop' async='async'></script>
+
+
+</head>
+
+<body class="non-touch">
+    
+<header class="nav-bar">
+<div class="nav-logo pull-left">
+<a href="https://yts-official.org/"><img src="img/yify2.png" alt="YTS" /></a>
+</div>
+<span class="header-slogan hidden-xs pull-left">HD movies at the smallest file size.</span>
+<div class="main-nav-links hidden-sm hidden-xs">
+<form method="GET" action="https://en.yts-official.org/movies" accept-charset="UTF-8" id="quick-search" name="quick-search">
+<div id="quick-search-container">
+<input id="quick-search-input" name="keyword" autocomplete="off" type="search" value="Search Movies">
+<div class="ajax-spinner"></div>
+</div>
+</form>
+<ul class="nav-links">
+<li><a href="https://en.yts-official.org/" rel="nofollow"> Home </a></li>
+<li><a href="https://en.yts-official.org/movies?quality=3D" rel="nofollow" style="color: #00BBCC"> 3D </a></li>
+<li><a href="https://en.yts-official.org/movies?quality=2160p" rel="nofollow"  style="color: #6AC045"> 4K </a></li>
+<li><a href="https://en.yts-official.org/trending" rel="nofollow"> Trending </a></li>
+<li><a href="https://en.yts-official.org/movies" rel="nofollow"> Browse Movies </a></li>
+<li><a href="https://en.yts-official.org/series" rel="nofollow"> Browse Series </a></li>
+
+
+
+
+</ul>
+</div>
+<div class="nav-mobile-buttons hidden-md hidden-lg">
+<a class="touchable" id="mobile-search-btn" href="javascript:void(0)"> <span class="glyphicon glyphicon-search"></span> </a>
+<a class="touchable" href="https://en.yts-official.org/browse-movies" rel="nofollow"> <span class="glyphicon glyphicon-list-alt"></span> </a>
+</div>
+</header>
+    <div id="background-image" style="background: url(https://yts-official.org/img/background.jpg) no-repeat center center; background-size: cover; -webkit-background-size: cover;-moz-background-size: cover; -o-background-size: cover;"></div>
+    <div id="background-overlay"></div>
+
+    <div class="main-content">
+
+        <div id="mobile-search-input" class="hidden-md hidden-lg">
+            <form method="POST" action="https://en.yts-official.org/movies" accept-charset="UTF-8">
+                <div class="input-group container search-query">
+                    <input class="form-control" placeholder="Search for a movie&hellip;" autocorrect="off" autocomplete="off" name="keyword" type="search">
+                    <span class="input-group-btn"> <button class="btn btn-success" type="submit">Search</button> </span>
+                </div>
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-10">
+                            <div class="selects-container">
+                                <p>Quality:</p>
+                                <select name="quality">
+                                    <option value="all" selected="selected">All</option>
+                                    <option value="720p">720p</option>
+                                    <option value="1080p">1080p</option>
+                                    <option value="3D">3D</option>
+                                </select>
+                            </div>
+                            <div class="selects-container">
+                                <p>Genre:</p>
+                                <select name="genre">
+                                    <option value="all" selected="selected">All</option>
+                                    <option value="action">Action</option>
+                                    <option value="adventure">Adventure</option>
+                                    <option value="animation">Animation</option>
+                                    <option value="biography">Biography</option>
+                                    <option value="comedy">Comedy</option>
+                                    <option value="crime">Crime</option>
+                                    <option value="documentary">Documentary</option>
+                                    <option value="drama">Drama</option>
+                                    <option value="family">Family</option>
+                                    <option value="fantasy">Fantasy</option>
+                                    <option value="film-noir">Film-Noir</option>
+                                    <option value="game-show">Game-Show</option>
+                                    <option value="history">History</option>
+                                    <option value="horror">Horror</option>
+                                    <option value="music">Music</option>
+                                    <option value="musical">Musical</option>
+                                    <option value="mystery">Mystery</option>
+                                    <option value="news">News</option>
+                                    <option value="reality-tv">Reality-TV</option>
+                                    <option value="romance">Romance</option>
+                                    <option value="sci-fi">Sci-Fi</option>
+                                    <option value="sport">Sport</option>
+                                    <option value="talk-show">Talk-Show</option>
+                                    <option value="thriller">Thriller</option>
+                                    <option value="war">War</option>
+                                    <option value="western">Western</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-xs-10">
+                            <div class="selects-container">
+                                <p>Rating:</p>
+                                <select name="rating">
+                                    <option value="0" selected="selected">All</option>
+                                    <option value="9">9+</option>
+                                    <option value="8">8+</option>
+                                    <option value="7">7+</option>
+                                    <option value="6">6+</option>
+                                    <option value="5">5+</option>
+                                    <option value="4">4+</option>
+                                    <option value="3">3+</option>
+                                    <option value="2">2+</option>
+                                    <option value="1">1+</option>
+                                </select>
+                            </div>
+                            <div class="selects-container selects-container-last">
+                                <p>Order By:</p>
+                                <select name="order_by">
+                                    <option value="latest" selected="selected">Latest</option>
+                                    <option value="oldest">Oldest</option>
+                                    <option value="seeds">Seeds</option>
+                                    <option value="peers">Peers</option>
+                                    <option value="year">Year</option>
+                                    <option value="rating">Rating</option>
+                                    <option value="likes">Likes</option>
+                                    <option value="alphabetical">Alphabetical</option>
+                                    <option value="downloads">Downloads</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="ac-results hidden-sm hidden-xs">
+        <ul></ul>
+        </div>
+        <noscript>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-20 text-center">
+                        <p class="no-javascript-warning">Javascript not supported on your browser, please enable Javascript in order to fully utilize the website</p>
+                    </div>
+                </div>
+            </div>
+        </noscript>
+
+        
+<div class="container home-content">
+    <div class="hidden-xs hidden-sm">
+        <h1>Download YTS YIFY movies: HD smallest size</h1>
+        <p> Welcome to the official <b>YIFY</b> website. Here you can browse and download YIFY movies in excellent 720p, 1080p, 2160p 4K and 3D quality, all at the smallest file size. YIFY Movies official.</p>
+    
+        <p>
+            <a href="https://yts-official.org/" title="yts-official.org is the only new official domain for YIFY Movies"><b>IMPORTANT - yts-official.org is the only new official domain for YIFY Movies</b></a>
+        </p>
+        
+       
+        
+    </div>
+    <div id="popular-downloads">
+        <div class="row">
+            <h2><span class="icon-star"></span>Popular YTS Movies Downloads In 2025</h2>
+        </div>
+        
+        
+        
+        <!-- ShareThis BEGIN -->
+<div class="sharethis-inline-share-buttons"></div>
+<!-- ShareThis END -->
+        <hr>
+        
+        
+        <a class="home-btnx" href="https://yts-official.org/" target="_blank" rel="noopener noreferrer">YIFY</a> 
+        <a class="home-btnx" href="https://en.yts-official.org/" target="_blank" rel="noopener noreferrer">Latest Movies</a> 
+         <a class="home-btnx" href="https://en.yts-official.org/movies?sort=rating" target="_blank" rel="noopener noreferrer">Popular Movies</a> 
+         <a class="home-btnx" href="https://en.yts-official.org/?quality=2160p" target="_blank" rel="noopener noreferrer">Browse 4K Movies</a> 
+        
+        
+      <hr>
+         
+         <h3>IMDb's Top Picks: The Best-Rated Movies Across the Years :</h3>
+         
+<p><b>St. Louis Blues (1929)</b>: A short film featuring Bessie Smith, this is a notable example of a film that showcases a legendary blues singer and offers a glimpse into the cultural landscape of African American music during the late 1920s.</p>
+
+<p><b>Popeye the Sailor Meets Sindbad the Sailor (1936)</b>: This animated short film is a classic example of the Popeye series, known for its unique animation style and humorous storytelling. It's a standout in early American animation.</p>
+
+<p><b>The House I Live In (1945)</b>: A short film starring Frank Sinatra, it's famous for its message against anti-Semitism and racial intolerance, reflecting the social issues of its time.</p>
+
+<p><b>The Middleton Family at the New York World's Fair (1939)</b>: This is more of a promotional film showcasing the 1939 New York World's Fair. It's significant for its historical value in presenting the technological optimism of the era.</p>
+
+<p><b>Modesta (1956)</b>: A Puerto Rican film, it's a pioneering work in Puerto Rican cinema, often noted for its commentary on women's rights and social issues.</p>
+
+<p><b>The Memphis Belle: A Story of a Flying Fortress (1944)</b>: This documentary about the final mission of the B-17 bomber Memphis Belle during WWII is significant for its realistic portrayal of the air war and its impact on American perceptions of the war.</p>
+
+<p><b>Under Western Stars (1938)</b>: This film marked the debut of Roy Rogers, a significant figure in the Western genre. It's a classic example of early Western films, blending music, drama, and action.</p>
+
+<p><b>Master Hands (1936)</b>: A "symphony of work" showcasing the manufacturing of Chevrolet cars, this film is a fascinating look at industrial production and labor during the 1930s.</p>
+
+<p><b>Duck and Cover (1951)</b>: An iconic civil defense film, it's remembered for its portrayal of the nuclear threat during the Cold War and its simplistic approach to public safety.</p>
+
+<p><b>All My Babies: A Midwife's Own Story (1953)</b>: This documentary offers a powerful and intimate look at the work of African American midwives in the rural South, highlighting issues of healthcare and racial inequality.</p>
+
+<p><b>President McKinley Taking the Oath (1901)</b>: This is one of the earliest examples of news footage, capturing a significant historical event - the inauguration of President McKinley.</p>
+
+<p><b>San Francisco Earthquake and Fire (1906)</b>: Early film footage showing the aftermath of the 1906 San Francisco earthquake and fire, providing a rare visual record of this historic disaster.</p>
+
+<p><b>The Hitch-Hiker (1953)</b>: Directed by Ida Lupino, this film noir is notable for its tension-filled narrative and for being one of the few classic noirs directed by a woman.</p>
+
+<p><b>Within Our Gates (1920)</b>: Directed by Oscar Micheaux, it's the oldest surviving film made by an African American director. It addresses racial issues in the early 20th century America and is significant for its historical and cultural value.</p>
+
+<p><b>Trance and Dance in Bali (1938-1939)</b>: This documentary film is an anthropological study of Balinese culture and dance, offering a glimpse into the rituals and artistic expressions of Bali.</p>
+
+<p><b>The Great Train Robbery (1903)</b>: A landmark in film history, this short film is often considered one of the first narrative films and is famous for its innovative editing and storytelling techniques.</p>
+
+<p><b>May Irwin Kiss (1896)</b>: One of the earliest examples of a film kiss, this short clip is significant for its place in the development of cinema as a medium.</p>
+
+<p><b>Panorama of Machine Co. Aisle, Westinghouse Co. Works (1904)</b>: An early example of industrial filmmaking, this film offers a glimpse into the industrial conditions and practices of the early 20th century.</p>
+
+         
+         <hr>
+        
+        <div class="row">
+            
+            
+           <div class="browse-movie-wrap col-xs-10 col-sm-5">
+                <a href="https://en.yts-official.org/movies/st-louis-blues-1958/" rel="nofollow" class="browse-movie-link">
+                    <figure>
+                        <img class="img-responsive" src="https://yts-official.org/imgup/st-louis-blues-1958.webp" alt="St. Louis Blues" width="210" height="315" />
+                        <figcaption class="hidden-xs hidden-sm">
+                            <span class="icon-star"></span>
+                            <h4 class="rating">8.4 / 10</h4>
+                            <h4>Biography, Drama, Music</h4>                            <span class="button-green-download2-big">View Details</span>
+                        </figcaption>
+                    </figure>
+                </a>
+                <div class="browse-movie-bottom">
+                    <a href="https://en.yts-official.org/movies/st-louis-blues-1958/" rel="nofollow" class="browse-movie-title">St. Louis Blues</a>
+                    <div class="browse-movie-year">1958</div>
+                </div>
+            </div>
+
+
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+                <a href="https://en.yts-official.org/movies/popeye-the-sailor-meets-sindbad-the-sailor-1936/" rel="nofollow" class="browse-movie-link">
+                    <figure>
+                        <img class="img-responsive" src="https://yts-official.org/imgup/popeye-the-sailor-meets-sindbad-the-sailor-1936.webp" alt="Popeye the Sailor Meets Sindbad the Sailor" width="210" height="315" />
+                        <figcaption class="hidden-xs hidden-sm">
+                            <span class="icon-star"></span>
+                            <h4 class="rating">8.4 / 10</h4>
+                            <h4>Animation, Short, Adventure</h4>                            <span class="button-green-download2-big">View Details</span>
+                        </figcaption>
+                    </figure>
+                </a>
+                <div class="browse-movie-bottom">
+                    <a href="https://en.yts-official.org/movies/popeye-the-sailor-meets-sindbad-the-sailor-1936/" rel="nofollow" class="browse-movie-title">Popeye the Sailor Meets Sindbad the Sailor</a>
+                    <div class="browse-movie-year">1936</div>
+                </div>
+            </div>
+
+
+
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+                <a href="https://en.yts-official.org/movies/the-house-i-live-in-2012/" rel="nofollow" class="browse-movie-link">
+                    <figure>
+                        <img class="img-responsive" src="https://yts-official.org/imgup/the-house-i-live-in-2012.webp" alt="The House I Live In" width="210" height="315" />
+                        <figcaption class="hidden-xs hidden-sm">
+                            <span class="icon-star"></span>
+                            <h4 class="rating">7.5 / 10</h4>
+                            <h4>Documentary</h4>                            <span class="button-green-download2-big">View Details</span>
+                        </figcaption>
+                    </figure>
+                </a>
+                <div class="browse-movie-bottom">
+                    <a href="https://en.yts-official.org/movies/the-house-i-live-in-2012/" rel="nofollow" class="browse-movie-title">The House I Live In</a>
+                    <div class="browse-movie-year">2012</div>
+                </div>
+            </div>
+
+
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+                <a href="https://en.yts-official.org/movies/the-middleton-family-at-the-new-york-worlds-fair-1939/" rel="nofollow" class="browse-movie-link">
+                    <figure>
+                        <img class="img-responsive" src="https://yts-official.org/imgup/the-middleton-family-at-the-new-york-worlds-fair-1939.webp" alt="The Middleton Family at the New York World's Fair" width="210" height="315" />
+                        <figcaption class="hidden-xs hidden-sm">
+                            <span class="icon-star"></span>
+                            <h4 class="rating">6.4 / 10</h4>
+                            <h4>Drama</h4>                            <span class="button-green-download2-big">View Details</span>
+                        </figcaption>
+                    </figure>
+                </a>
+                <div class="browse-movie-bottom">
+                    <a href="https://en.yts-official.org/movies/the-middleton-family-at-the-new-york-worlds-fair-1939/" rel="nofollow" class="browse-movie-title">The Middleton Family at the New York World's Fair</a>
+                    <div class="browse-movie-year">1939</div>
+                </div>
+            </div>
+            
+            
+      
+            
+            </div>
+    </div>
+</div>
+<div class="content-dark">
+    <div class="container home-content">
+        <div class="home-movies">
+            <div class="row">
+               <div class="col-md-12">
+                   
+                   <h4>A House of Dynamite (2025)</h4>
+<p>A gritty story of revenge set in a working-class neighborhood, where hidden loyalties spark explosive consequences.</p>
+
+<h4>A Minecraft Movie (2025)</h4>
+<p>Based on the beloved game, this film follows a group of adventurers building, fighting, and surviving to defend their pixelated world.</p>
+
+<h4>All of You (2025)</h4>
+<p>A tender romance where two strangers heal from past heartbreaks and slowly rediscover the meaning of true connection.</p>
+
+<h4>Ballerina (2025)</h4>
+<p>Within the John Wick universe, a lethal assassin trained in ballet uses her skills to track down those who wronged her family.</p>
+
+<h4>Black Bag (2025)</h4>
+<p>An international espionage thriller where stolen secrets and deadly assignments put agents on a collision course with betrayal.</p>
+
+<h4>Bring Her Back (2025)</h4>
+<p>A father’s desperate journey through lies and corruption as he searches for his kidnapped daughter against all odds.</p>
+
+<h4>Bring Them Down (2025)</h4>
+<p>An Irish drama about blood feuds, broken families, and the violent legacy passed from one generation to the next.</p>
+
+<h4>Captain America: Brave New World (2025)</h4>
+<p>Sam Wilson wields the shield as the new Captain America, confronting political power struggles and a dangerous new villain.</p>
+
+<h4>Caramelo (2025)</h4>
+<p>A lighthearted Netflix romance full of cultural humor, exploring love’s sweet and sour moments in modern relationships.</p>
+
+<h4>Companion (2025)</h4>
+<p>A suspenseful sci-fi tale where survivors awaken in an alien environment and must uncover why they were chosen.</p>
+
+<h4>Demon Slayer: Infinity Castle (2025)</h4>
+<p>The Demon Slayer Corps faces their ultimate fight inside Muzan’s fortress in a breathtaking conclusion to the saga.</p>
+
+<h4>Den of Thieves: Pantera (2025)</h4>
+<p>Detective Nick O’Brien returns in a cat-and-mouse chase against elite criminals pulling off their boldest heist yet.</p>
+
+<h4>Dog Man (2025)</h4>
+<p>A quirky animated film about a half-dog, half-human hero who protects his city with courage and humor.</p>
+
+<h4>Downton Abbey: The Grand Finale (2025)</h4>
+<p>The Crawleys bid farewell in a moving chapter filled with nostalgia, family drama, and heartfelt closure.</p>
+
+<h4>F1: The Movie (2025)</h4>
+<p>High-speed action takes center stage as the world of Formula 1 racing is brought to life with drama and adrenaline.</p>
+
+<h4>Flight Risk (2025)</h4>
+<p>A commercial pilot must transport a dangerous criminal, but turbulence both in the air and on the ground threatens disaster.</p>
+
+<h4>Freakier Friday (2025)</h4>
+<p>Generations collide again as mothers and daughters magically swap lives, leading to chaos and comic lessons learned.</p>
+
+<h4>Frankenstein (2025)</h4>
+<p>A dark reimagining of the gothic classic, exploring how ambition and science collide to create life with tragic results.</p>
+
+<h4>French Lover (2025)</h4>
+<p>An American woman’s adventure in Paris takes a romantic turn when she falls for a charming yet complicated Frenchman.</p>
+
+<h4>Gabby’s Dollhouse: The Movie (2025)</h4>
+<p>Gabby and her friends embark on a big-screen magical adventure, discovering new lands and lessons about friendship.</p>
+
+<h4>Godzilla x Kong: The New Empire (2024, trending 2025)</h4>
+<p>The mighty Titans unite once more to protect Earth when an ancient foe threatens both humans and monsters alike.</p>
+
+<h4>Good Boy (2025)</h4>
+<p>A chilling story where trust and companionship mask a sinister truth that slowly unravels with terrifying consequences.</p>
+
+<h4>Highest 2 Lowest (2025)</h4>
+<p>A survival drama highlighting class divides, as strangers from different worlds must work together to endure crisis.</p>
+
+<h4>How to Train Your Dragon (2025)</h4>
+<p>A live-action retelling of the bond between Hiccup and Toothless, blending heartfelt friendship with epic adventure.</p>
+
+<h4>Identity Thief (2009, trending 2025)</h4>
+<p>A comedy about a man chasing down the con artist who stole his name, money, and sanity in outrageous ways.</p>
+
+<h4>Jurassic World: Rebirth (2025)</h4>
+<p>The saga continues as humanity faces new genetic experiments, unleashing dinosaurs in unexpected places.</p>
+
+<h4>KPop Demon Hunters (2025)</h4>
+<p>A vibrant animated feature where a K-pop girl group secretly moonlights as demon hunters saving the world.</p>
+
+<h4>Lilo & Stitch (2025)</h4>
+<p>Disney’s heartwarming story returns in live-action, following a lonely girl and her mischievous alien companion.</p>
+
+<h4>Lyle, Lyle, Crocodile (2022, trending 2025)</h4>
+<p>A musical family adventure about a crocodile with a big voice who changes the lives of those around him.</p>
+
+<h4>Materialists (2025)</h4>
+<p>A romantic dramedy about ambition, love, and the messy realities of chasing success in New York City.</p>
+
+<h4>Mickey 17 (2025)</h4>
+<p>A dystopian sci-fi where a disposable worker clone refuses to be replaced, sparking rebellion in a distant colony.</p>
+
+<h4>Mission: Impossible – The Final Reckoning (2025)</h4>
+<p>Ethan Hunt takes on one last impossible mission in a globe-trotting finale of action and espionage.</p>
+
+<h4>My Father, the BTK Killer (2005, trending 2025)</h4>
+<p>Based on true events, this crime drama follows the chilling story of a serial killer’s son grappling with his father’s legacy.</p>
+
+<h4>Ne Zha 2 (2025)</h4>
+<p>A Chinese animated epic where Ne Zha returns to battle gods and demons in dazzling mythical landscapes.</p>
+
+<h4>Nobody 2 (2025)</h4>
+<p>Bob Odenkirk reprises his role as an underestimated vigilante facing brutal new enemies in this action sequel.</p>
+
+<h4>One Battle After Another (2025)</h4>
+<p>A war epic capturing relentless combat and the courage of soldiers fighting against overwhelming odds.</p>
+
+<h4>One of Them Days (2025)</h4>
+<p>A man’s ordinary day spirals into absurdity and danger in this dark comedy of errors.</p>
+
+<h4>Presence (2025)</h4>
+<p>A ghostly mystery unfolds when strange events plague a group, blurring the line between reality and the supernatural.</p>
+
+<h4>Roofman (2025)</h4>
+<p>A biopic about a daring thief who became infamous for pulling off rooftop bank robberies with unmatched skill.</p>
+
+<h4>Snow White (2025)</h4>
+<p>Disney reimagines its classic fairy tale in a live-action musical with new twists on the timeless story.</p>
+
+<h4>Sinners (2025)</h4>
+<p>A drama that dives deep into corruption, morality, and how far people will go when tested by power.</p>
+
+<h4>Soul on Fire (2025)</h4>
+<p>A powerful tale of redemption where music, pain, and resilience intertwine in one man’s journey.</p>
+
+<h4>Splitsville (2025)</h4>
+<p>A playful romantic comedy about breakups, awkward rebounds, and the search for second chances.</p>
+
+<h4>Steve (2025)</h4>
+<p>A dramatic biopic exploring the life and legacy of Steve Jobs from new, intimate perspectives.</p>
+
+<h4>Superman (2025)</h4>
+<p>The Man of Steel returns in James Gunn’s reboot, balancing his Kryptonian destiny with his human side.</p>
+
+<h4>The Alto Knights (2025)</h4>
+<p>A crime drama set in postwar America, where mobsters rise to power in an era of shifting loyalty.</p>
+
+<h4>The Ballad of Wallis Island (2025)</h4>
+<p>A survival thriller about a remote island community grappling with secrets and unexpected dangers.</p>
+
+<h4>The Conjuring: Last Rites (2025)</h4>
+<p>Ed and Lorraine Warren face their most terrifying case yet in the final chapter of the horror franchise.</p>
+
+<h4>The Fantastic Four: First Steps (2025)</h4>
+<p>Marvel’s iconic superhero team is reborn, tackling cosmic threats while finding their place in the MCU.</p>
+
+<h4>The Gentlemen (2025)</h4>
+<p>Guy Ritchie expands his crime universe with new players battling for control of the London underworld.</p>
+
+<h4>The Life of Chuck (2025)</h4>
+<p>A Stephen King story told in reverse, unraveling a man’s existence in three extraordinary acts.</p>
+
+<h4>The Long Walk (2025)</h4>
+<p>A dystopian Stephen King tale where boys compete in a brutal walking contest with deadly consequences.</p>
+
+<h4>The Lost Bus (2025)</h4>
+<p>Based on true events, this film follows stranded students fighting for survival against nature’s odds.</p>
+
+<h4>The Mask (1994, trending 2025)</h4>
+<p>Jim Carrey’s cult comedy resurges on streaming, bringing its wild cartoon chaos to a new audience.</p>
+
+<h4>The Mastermind (2025)</h4>
+<p>A cerebral heist thriller about a criminal genius orchestrating the perfect crime with shocking twists.</p>
+
+<h4>The Monkey (2025)</h4>
+<p>A horror film where a cursed toy monkey unleashes death every time its cymbals clap together.</p>
+
+<h4>The Naked Gun (2025)</h4>
+<p>A modern reboot of the slapstick comedy classic, packed with outrageous gags and absurd adventures.</p>
+
+<h4>The Smashing Machine (2025)</h4>
+<p>A biographical sports drama portraying UFC fighter Mark Kerr’s battles inside the cage and with addiction.</p>
+
+<h4>The Strangers: Chapter 2 (2025)</h4>
+<p>The masked intruders return to continue their reign of terror in this chilling horror sequel.</p>
+
+<h4>The Woman in Cabin 10 (2025)</h4>
+<p>A thriller about a journalist who witnesses a possible murder aboard a luxury cruise ship but is doubted by everyone.</p>
+
+<h4>Thunderbolts* (2025)</h4>
+<p>Marvel’s anti-heroes and villains are forced together on a dangerous government mission full of tension and betrayal.</p>
+
+<h4>Tron: Ares (2025)</h4>
+<p>The Tron saga continues with a new digital frontier and the clash between humanity and AI.</p>
+
+<h4>Wake Up Dead Man: A Knives Out Mystery (2025)</h4>
+<p>Benoit Blanc faces his darkest case yet in a twisting mystery where every suspect hides deadly secrets.</p>
+
+<h4>War 2 (2025)</h4>
+<p>A big-budget Bollywood action spectacle combining espionage, betrayal, and over-the-top fight sequences.</p>
+
+<h4>Weapons (2025)</h4>
+<p>An interconnected horror anthology about fear, violence, and the haunting consequences of human cruelty.</p>
+
+                   
+                   
+               </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        <div class="container hidden-md hidden-lg">
+    <div class="row">
+        <div class="mobile-footer">
+            <div class="col-sm-20">
+                <a href="https://en.yts-official.org/" rel="nofollow" style="width: 50%;"> <span class="glyphicon glyphicon-home"></span> 
+                    <p>Home</p>
+                </a>
+                <a href="https://en.yts-official.org/movies" rel="nofollow" style="width: 50%;"> <span class="glyphicon glyphicon-list-alt"></span> 
+                    <p>Browse Movies</p>
+                </a>
+                
+                <a href="https://en.yts-official.org/series" rel="nofollow" style="width: 50%;"> <span class="glyphicon glyphicon-list-alt"></span> 
+                    <p>Browse Series</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-20">
+                <ul class="text-center">
+                    <li>YTS &copy; 2011 - 2026</li>
+                    <li>-</li>
+                    <li><a href="https://en.yts-official.org/movies" rel="nofollow">Browse Movies</a></li>
+                    <li><a href="https://en.yts-official.org/series" rel="nofollow">Browse Series</a></li>
+                    <li><a href="https://en.yts-official.org/trending" rel="nofollow">trending Movies</a></li>
+                    <li><a href="https://en.yts-official.org/upcoming" rel="nofollow">upcoming Movies</a></li>
+                     <li><a href="https://en.yts-official.org/latest" rel="nofollow">latest Movies</a></li>
+                    <li><a href="#" rel="nofollow">yts</a></li>
+                    <li><a href="#" rel="nofollow">yts mx</a></li>
+                    <li><a href="#" rel="nofollow">yify mx</a></li>
+                    <li><a href="#" rel="nofollow">yts movies</a></li>
+                    <li><a href="#" rel="nofollow">yify movies</a></li>
+                    <li><a href="#" rel="nofollow">yts official</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+    </div>
+    <script type="text/javascript" src="https://yts-official.org/js/app.js?v=1"></script>
+    
+    
+  <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4739166,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4739166&101" alt="free log" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+
+
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9ce528b80964750d',t:'MTc3MTE2MjIxOA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

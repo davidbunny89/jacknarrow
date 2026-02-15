@@ -1,0 +1,40 @@
+*/⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+//⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⠀⠀⠀⠀⠈⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+//⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿
+//⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿
+//⣿⣿⠻⣿⣿⣿⣿⣿⣿⣷⡀⢸⣿⣷⠀⠀⣾⣿⡇⢀⣾⣿⣿⣿⣿⣿⣿⠟⣿⣿
+//⣿⣿⡆⠙⣿⣿⣿⣿⣿⣿⣄⠈⠛⠋⡰⢆⠙⠛⠁⣠⣿⣿⣿⣿⣿⣿⠋⢰⣿⣿
+//⣿⣿⣿⡀⠈⠻⣿⣿⣿⣿⣿⣿⣦⣤⣤⣤⣤⣴⣿⣿⣿⣿⣿⣿⠟⠁⢀⣿⣿⣿
+//⣿⣿⣿⣷⡀⠀⠘⢿⣿⣿⣿⡇⠘⢿⣿⣿⡿⠃⢸⣿⣿⣿⡿⠃⠀⢀⣾⣿⣿⣿
+//⣿⣿⣿⣿⣷⣄⠀⠀⠙⠿⣿⣿⣦⣀⠈⠁⣀⣴⣿⣿⠿⠋⠀⠀⣠⣾⣿⣿⣿⣿
+//⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠈⠻⢿⣿⣿⣿⣿⡿⠟⠁⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿
+//⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀⣀⣭⡿⠟⠉⠀⠀⢀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿
+//⣿⣿⣿⣿⣿⣿⣿⣏⡉⢻⣿⠟⠋⠁⠀⠀⢀⣠⣴⣿⡟⢉⣹⣿⣿⣿⣿⣿⣿⣿
+//⣿⣿⣿⣿⠿⣿⠿⠛⢷⡄⠹⣇⣀⣠⣴⣾⣟⣉⣸⠏⢠⡾⠛⠿⣿⠿⣿⣿⣿⣿
+//⣿⣿⣿⡇⠀⢸⣧⣤⣾⣿⣄⣹⣿⣿⣿⣿⣿⣿⣏⣠⣿⣷⣤⣼⡇⠀⢸⣿⣿⣿
+//⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+*/
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+THIS SOFTWARE COMES WITH NO GARANTEES!!!
+AND THE SOLE USE OF IT DEPENDS ON YOU!!!
+THE IDEA IS TO MAKE FRIENDLIER AND
+LAZY-FRIENDLY the internet for those
+with disabilties. Remember:
+
+"With great power comes great responsability."
+
+////////////////////////////////////////////////////////
+////////////////How to make it work:////////////////////
+////////////////////////////////////////////////////////
+
+ It was made on a Linux old machine and written in C.
+Eventually will be updating modules, you can find online
+to catch magnet links and make automatic outputs with
+links that will trigger your preferred Torrent engine
+and simplify the proccess.
+
+
+Dependecies:
+- Curl
