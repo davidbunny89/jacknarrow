@@ -38,3 +38,9 @@ and simplify the proccess.
 
 Dependecies:
 - Curl
+- Regex
+
+
+**Notes about first version**
+1.0 - Can only do a curl and get the name of the movies and description on first
+page. But I'm including some newer functions on secon version.
